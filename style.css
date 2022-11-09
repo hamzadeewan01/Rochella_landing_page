@@ -1,0 +1,498 @@
+#background{
+    /* Layout Properties */
+    top: 0px;
+    left: 0px;
+    width: 960px;
+    height: 1061px;
+    /* UI Properties */
+    background: transparent url('./assets/img/Mask Group 1.png') 0% 0% no-repeat padding-box;
+    opacity: 1;}
+
+#logo{
+    /* Layout Properties */
+    top: 30px;
+    left: 257px;
+    width: 206px;
+    height: 105px;
+    /* UI Properties */
+    background: transparent url('./assets/img/Group\ 9.png') 0% 0% no-repeat padding-box;
+    opacity: 1;
+position: absolute;}
+
+#products{
+/* Layout Properties */
+top: 68px;
+left: 660px;
+width: 86px;
+height: 29px;
+/* UI Properties */
+text-align: left;
+font: normal normal 300 22px/30px Avenir;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;}
+
+
+#test{
+    /* Layout Properties */
+top: 68px;
+left: 845px;
+width: 111px;
+height: 29px;
+/* UI Properties */
+text-align: left;
+font: normal normal 300 22px/30px Avenir;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;}
+
+#pricing{
+    /* Layout Properties */
+    top: 68px;
+    left: 1036px;
+    width: 67px;
+    height: 29px;
+    /* UI Properties */
+    text-align: left;
+    font: normal normal 300 22px/30px Avenir;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+position: absolute;}
+
+#resources{
+    /* Layout Properties */
+top: 68px;
+left: 1183px;
+width: 99px;
+height: 29px;
+/* UI Properties */
+text-align: left;
+font: normal normal 300 22px/30px Avenir;
+letter-spacing: 0px;
+color: #000000;
+opacity: 1;
+position: absolute;}
+
+#request_a_call{
+/* Layout Properties */
+top: 68px;
+left: 1401px;
+width: 262px;
+height: 70px;
+/* UI Properties */
+background: transparent linear-gradient(90deg, #419CF8 0%, #1E3EBC 100%) 0% 0% no-repeat padding-box;
+border-radius: 10px;
+opacity: 1;
+position: absolute}
+
+#request_a_call_text{
+    /* Layout Properties */
+    left: 60px;
+    width: 140px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 22px/30px Avenir;
+    letter-spacing: 0px;
+    color: #FFF;
+    opacity: 1;
+position: absolute;}
+
+#main_heading{/* Layout Properties */
+    top: 260px;
+    left: 333px;
+    width: 1254px;
+    height: 156px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 900 65px/78px Avenir LT Std;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+position: absolute;}
+
+#pragraph{/* Layout Properties */
+    top: 516px;
+    left: 333px;
+    width: 1254px;
+    height: 115px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 18px/30px Avenir;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;}
+
+    #availability{
+        /* Layout Properties */
+top: 711px;
+left: 150px;
+width: 300px;
+height: 100px;
+/* UI Properties */
+background: #FFFFFF 0% 0% no-repeat padding-box;
+box-shadow: 0px 5px 10px #419CF84F;
+border: 1px solid #419CF8;
+border-radius: 10px;
+opacity: 1;
+position: absolute;
+align-items: inherit;
+}
+
+#inside_availability{
+    /* Layout Properties */
+    margin-top: 18px;
+    margin-left: 16px;
+    width: 66px;
+    height: 66px;
+    /* UI Properties */
+    background: #1E3EBC 0% 0% no-repeat padding-box;
+    border-radius: 8px;
+    opacity: 1;}
+
+#availability_text{
+    /* Layout Properties */
+    padding-top: 13px;
+    margin-left: 130px;
+    width: 106px;
+    height: 29px;
+    /* UI Properties */
+    text-align: center;
+    font: normal normal 300 22px/30px Avenir;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+    position: absolute;}
+
+    .all_btn_icons{
+        /* Layout Properties */
+        margin-top: 18px;
+        margin-left: 14px;
+        width: 36px;
+        height: 30px;
+        /* UI Properties */
+        opacity: 1;}
+
+        .line{/* Layout Properties */
+            margin-top: 16px;
+            margin-left: 110px;
+            width: 0px;
+            height: 66px;
+            /* UI Properties */
+            border: 1px solid #419CF8;
+            opacity: 1;position: absolute;}
+
+           
+            #test_type{
+                /* Layout Properties */
+                top: 711px;
+                left: 480px;
+                width: 300px;
+                height: 100px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 10px #419CF84F;
+        border: 1px solid #419CF8;
+        border-radius: 10px;
+        opacity: 1;
+        position: absolute;
+        align-items: inherit;
+        }
+        
+        #inside_test_type{
+            /* Layout Properties */
+            margin-top: 18px;
+            margin-left: 16px;
+            width: 66px;
+            height: 66px;
+            /* UI Properties */
+            background: #1E3EBC 0% 0% no-repeat padding-box;
+            border-radius: 8px;
+            opacity: 1;}
+        
+        #test_type_text{
+            /* Layout Properties */
+            padding-top: 13px;
+            margin-left: 130px;
+            width: 106px;
+            height: 29px;
+            /* UI Properties */
+            text-align: center;
+            font: normal normal 300 22px/30px Avenir;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;}
+
+            /* another */
+            #experience{
+                /* Layout Properties */
+                top: 711px;
+                left: 810px;
+                width: 300px;
+                height: 100px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 10px #419CF84F;
+        border: 1px solid #419CF8;
+        border-radius: 10px;
+        opacity: 1;
+        position: absolute;
+        align-items: inherit;
+        }
+        
+        #inside_experience{
+            /* Layout Properties */
+            margin-top: 18px;
+            margin-left: 16px;
+            width: 66px;
+            height: 66px;
+            /* UI Properties */
+            background: #1E3EBC 0% 0% no-repeat padding-box;
+            border-radius: 8px;
+            opacity: 1;}
+        
+        #experience_text{
+            /* Layout Properties */
+            padding-top: 4px;
+            margin-left: 130px;
+            width: 106px;
+            height: 29px;
+            /* UI Properties */
+            text-align: center;
+            font: normal normal 300 22px/30px Avenir;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;}
+
+            /* another */
+            #difficulty{
+               /* Layout Properties */
+top: 711px;
+left: 1140px;
+width: 300px;
+height: 100px;
+        /* UI Properties */
+        background: #FFFFFF 0% 0% no-repeat padding-box;
+        box-shadow: 0px 5px 10px #419CF84F;
+        border: 1px solid #419CF8;
+        border-radius: 10px;
+        opacity: 1;
+        position: absolute;
+        align-items: inherit;
+        }
+        
+        #inside_difficulty{
+            /* Layout Properties */
+            margin-top: 18px;
+            margin-left: 16px;
+            width: 66px;
+            height: 66px;
+            /* UI Properties */
+            background: #1E3EBC 0% 0% no-repeat padding-box;
+            border-radius: 8px;
+            opacity: 1;}
+        
+        #difficulty_text{
+            /* Layout Properties */
+            padding-top: 13px;
+            margin-left: 130px;
+            width: 106px;
+            height: 29px;
+            /* UI Propertie
+            /* UI Properties */
+            text-align: center;
+            font: normal normal 300 22px/30px Avenir;
+            letter-spacing: 0px;
+            color: #000000;
+            opacity: 1;
+            position: absolute;}
+
+                   /* another */
+                   #text_duration{
+                    /* Layout Properties */
+                    top: 711px;
+                    left: 1470px;
+                    width: 300px;
+                    height: 100px;
+             /* UI Properties */
+             background: #FFFFFF 0% 0% no-repeat padding-box;
+             box-shadow: 0px 5px 10px #419CF84F;
+             border: 1px solid #419CF8;
+             border-radius: 10px;
+             opacity: 1;
+             position: absolute;
+             align-items: inherit;
+             }
+             
+             #inside_text_duration{
+                 /* Layout Properties */
+                 margin-top: 18px;
+                 margin-left: 16px;
+                 width: 66px;
+                 height: 66px;
+                 /* UI Properties */
+                 background: #1E3EBC 0% 0% no-repeat padding-box;
+                 border-radius: 8px;
+                 opacity: 1;}
+             
+             #text_duration_text{
+                 /* Layout Properties */
+                 padding-top: 4px;
+                 margin-left: 130px;
+                 width: 106px;
+                 height: 29px;
+                 /* UI Propertie
+                 /* UI Properties */
+                 text-align: center;
+                 font: normal normal 300 22px/30px Avenir;
+                 letter-spacing: 0px;
+                 color: #000000;
+                 opacity: 1;
+                 position: absolute;}
+
+                      /* another */
+                      #total{
+                        /* Layout Properties */
+                        top: 861px;
+                        left: 480px;
+                        width: 300px;
+                        height: 100px;
+                 /* UI Properties */
+                 background: #FFFFFF 0% 0% no-repeat padding-box;
+                 box-shadow: 0px 5px 10px #419CF84F;
+                 border: 1px solid #419CF8;
+                 border-radius: 10px;
+                 opacity: 1;
+                 position: absolute;
+                 align-items: inherit;
+                 }
+                 
+                 #inside_total{
+                     /* Layout Properties */
+                     margin-top: 18px;
+                     margin-left: 16px;
+                     width: 66px;
+                     height: 66px;
+                     /* UI Properties */
+                     background: #1E3EBC 0% 0% no-repeat padding-box;
+                     border-radius: 8px;
+                     opacity: 1;}
+                 
+                 #total_text{
+                     /* Layout Properties */
+                     padding-top: 4px;
+                     margin-left: 130px;
+                     width: 106px;
+                     height: 29px;
+                     /* UI Propertie
+                     /* UI Properties */
+                     text-align: center;
+                     font: normal normal 300 22px/30px Avenir;
+                     letter-spacing: 0px;
+                     color: #000000;
+                     opacity: 1;
+                     position: absolute;}
+           
+                         /* another */
+                         #job{
+                            /* Layout Properties */
+                            top: 861px;
+                            left: 810px;
+                            width: 300px;
+                            height: 100px;
+                     /* UI Properties */
+                     background: #FFFFFF 0% 0% no-repeat padding-box;
+                     box-shadow: 0px 5px 10px #419CF84F;
+                     border: 1px solid #419CF8;
+                     border-radius: 10px;
+                     opacity: 1;
+                     position: absolute;
+                     align-items: inherit;
+                     }
+                     
+                     #inside_job{
+                         /* Layout Properties */
+                         margin-top: 18px;
+                         margin-left: 16px;
+                         width: 66px;
+                         height: 66px;
+                         /* UI Properties */
+                         background: #1E3EBC 0% 0% no-repeat padding-box;
+                         border-radius: 8px;
+                         opacity: 1;}
+                     
+                     #job_text{
+                         /* Layout Properties */
+                         padding-top: 18px;
+                         margin-left: 130px;
+                         width: 106px;
+                         height: 29px;
+                         /* UI Propertie
+                         /* UI Properties */
+                         text-align: center;
+                         font: normal normal 300 22px/30px Avenir;
+                         letter-spacing: 0px;
+                         color: #000000;
+                         opacity: 1;
+                         position: absolute;}
+
+                         /* another */
+                         #languages{
+                            /* Layout Properties */
+                            top: 861px;
+                            left: 1140px;
+                            width: 300px;
+                            height: 100px;
+                     /* UI Properties */
+                     background: #FFFFFF 0% 0% no-repeat padding-box;
+                     box-shadow: 0px 5px 10px #419CF84F;
+                     border: 1px solid #419CF8;
+                     border-radius: 10px;
+                     opacity: 1;
+                     position: absolute;
+                     align-items: inherit;
+                     }
+                     
+                     #inside_languages{
+                         /* Layout Properties */
+                         margin-top: 18px;
+                         margin-left: 16px;
+                         width: 66px;
+                         height: 66px;
+                         /* UI Properties */
+                         background: #1E3EBC 0% 0% no-repeat padding-box;
+                         border-radius: 8px;
+                         opacity: 1;}
+                     
+                     #languages_text{
+                         /* Layout Properties */
+                         padding-top: 18px;
+                         margin-left: 130px;
+                         width: 106px;
+                         height: 29px;
+                         /* UI Propertie
+                         /* UI Properties */
+                         text-align: center;
+                         font: normal normal 300 22px/30px Avenir;
+                         letter-spacing: 0px;
+                         color: #000000;
+                         opacity: 1;
+                         position: absolute;}
+
+                         #talk{
+                            /* Layout Properties */
+                            top: 1041px;
+                            left: 829px;
+                            width: 262px;
+                            height: 70px;
+                            /* UI Properties */
+                            background: transparent linear-gradient(90deg, #419CF8 0%, #1E3EBC 100%) 0% 0% no-repeat padding-box;
+                            border-radius: 10px;
+                            opacity: 1;
+                            position: absolute}
